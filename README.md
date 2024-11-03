@@ -10,7 +10,7 @@
 
 
 
-## **3. Ejemplos de Implementación DevOps y Beneficios Obtenidos**
+## **Ejemplos de Implementación DevOps y Beneficios Obtenidos**
 ### *Caso 1: Netflix*
 
 Tecnologías utilizadas: Netflix emplea herramientas como Spinnaker para la entrega continua y Docker y Kubernetes para la contenedorización y orquestación. Utilizan Chaos Monkey para la prueba de resiliencia de sus sistemas.
