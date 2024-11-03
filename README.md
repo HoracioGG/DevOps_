@@ -67,6 +67,8 @@ Mayor satisfacción de sus desarrolladores y menos tiempo de inactividad en sus 
 
 **●	Sueldo:** 30.000€ - 36.000€ Bruto/año
 
+## Conclusión
 
+Esta oferta de trabajo parece interesante por el hecho de ser completamente en teletrabajo, lo cual hoy en día es muy valorado por la flexibilidad que ofrece. Los requisitos técnicos, como la administración de sistemas en AWS y Linux y los conocimientos avanzados de inglés, están alineados con las habilidades actuales del mercado para roles relacionados con la nube y la infraestructura, que además suelen tener una gran demanda.
 
 
