@@ -30,25 +30,27 @@ Uno de los principios fundamentales en DevOps es la cultura colaborativa. Esto i
 | Contenedores y Orquestación | Docker, Kubernetes | Docker crea contenedores que aislan aplicaciones, mientras que Kubernetes gestiona y coordina contenedores a gran escala |
 
 
-3. Ejemplos de Implementación DevOps y Beneficios Obtenidos
-● Caso 1: Netflix
+## **3. Ejemplos de Implementación DevOps y Beneficios Obtenidos**
+### *Caso 1: Netflix*
+
 Tecnologías utilizadas: Netflix emplea herramientas como Spinnaker para la entrega continua y Docker y Kubernetes para la contenedorización y orquestación. Utilizan Chaos Monkey para la prueba de resiliencia de sus sistemas.
 
-Beneficios:
-
+***Beneficios:***
 Netflix ha mejorado la confiabilidad y velocidad en sus despliegues de producción.
 Reducción de errores y tiempos de inactividad mediante pruebas automatizadas y entrega continua.
-● Caso 2: Amazon
+
+### *Caso 2: Amazon*
+
 Tecnologías utilizadas: Amazon usa herramientas de CI/CD internas y también Jenkins y AWS CodePipeline. También emplea Infrastructure as Code mediante AWS CloudFormation.
 
-Beneficios:
-
+***Beneficios:***
 Amazon ha logrado optimizar sus procesos de desarrollo y despliegue, permitiendo implementaciones de código cada 11.6 segundos.
 Mayor flexibilidad para introducir cambios y responder a las necesidades del cliente.
-● Caso 3: Etsy
+
+### *Caso 3: Etsy*
+
 Tecnologías utilizadas: Etsy utiliza Jenkins para CI/CD y Docker para contenedores, así como herramientas de monitorización como Nagios y Grafana.
 
-Beneficios:
-
+***Beneficios:***
 Etsy ha logrado reducir significativamente sus tiempos de despliegue y ha mejorado la calidad del código.
 Mayor satisfacción de sus desarrolladores y menos tiempo de inactividad en sus aplicaciones.
