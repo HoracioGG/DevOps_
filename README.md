@@ -54,3 +54,19 @@ Tecnologías utilizadas: Etsy utiliza Jenkins para CI/CD y Docker para contenedo
 ***Beneficios:***
 Etsy ha logrado reducir significativamente sus tiempos de despliegue y ha mejorado la calidad del código.
 Mayor satisfacción de sus desarrolladores y menos tiempo de inactividad en sus aplicaciones.
+
+## Oferta de DevOps
+
+**●	Lugar de trabajo:** Teletrabajo
+
+**●	Tecnologías exigidas:** Linux, Administración de sistemas, aws, administración de aws, Administración de sistemas aws
+
+**●	Experiencia previa exigida:** 3 años de experiencia
+
+**●	Idiomas:** Ingles avanzado
+
+**●	Sueldo:** 30.000€ - 36.000€ Bruto/año
+
+
+
+
