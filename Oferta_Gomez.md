@@ -6,14 +6,14 @@ Informacion de la Empresa:
 Izertis con más de 25 años de experiencia, incluida en el índice BME Growth y entre las 1.000 empresas que más rápido crecen entre los países europeos, te da la oportunidad de desarrollar tu carrera profesional junto a más de 1.800 emplead@s a través de sus oficinas distribuidas por Europa, América y África y con presencia en más de 50 países donde prestamos servicios y proyectos a través de un amplio portfolio de soluciones.
 
 Detallas de la oferta:
-Estudios mínimos:
+- Estudios mínimos:
 Grado
-Experiencia mínima:
+- Experiencia mínima:
 Al menos 2 años
-Imprescindible residente en la Provincia Puesto Vacante: Madrid
-Conocimientos necesarios:
+- Imprescindible residente en la Provincia Puesto Vacante: Madrid
+- Conocimientos necesarios:
 Kubernetes,OpenShift,DevOps,Hardware,Linux,ATM,CNS
-Requisitos mínimos
+- Requisitos mínimos
 Titulación: Grado en ingeniería, física, matemáticas, etc. (Deberá ser titulación Superior, no aceptan Formaciones Profesionales).
 Experiencia de 2 años mínimo en herramientas DevOps como: Kubernetes, OpenShift.
 Experiencia de 2 años en Sistemas (Linux)
